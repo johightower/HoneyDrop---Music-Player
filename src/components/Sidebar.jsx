@@ -29,7 +29,7 @@ const Sidebar = () => {
   return (
     <>
       <div className="md:flex hidden flex-col w-[240px] py-10 px-4 bg-[#EBAF4C]">
-        <h1 className="text-yellow-50 font-bold text-3xl text-center object-contain">HoneyDrop</h1>
+        <h1 className="text-yellow-50 font-bold font- text-3xl text-center object-contain ">HoneyDrop</h1>
         <h5 className="text-yellow-50 text-center">"Where your favorite musicians drop their sweetest tunes"</h5>
         <NavLinks />
       </div>
